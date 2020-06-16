@@ -54,7 +54,7 @@
 #define LCD_PINS_D4                          30   // ST9720 CLK
 
 #if ENABLED(BLTOUCH)
-  #define SERVO0_PIN                         27
+  #define SERVO0_PIN                         29
   #undef BEEPER_PIN
 #endif
 
